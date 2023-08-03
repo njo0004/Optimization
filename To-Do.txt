@@ -1,0 +1,7 @@
+1] [DONE]
+    I want to base all of the optimization techniques off of a constant "benchmark nonlinear function so I will look at various test functions"
+
+    I will look first at the Himmelblau function
+
+2]
+    I need to add the radial basis kernel function for multivariate sets
